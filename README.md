@@ -5,7 +5,7 @@ Tvonline.id has some problem with the UI, namely:
 - The main logo is not cropped properly
 - Doesn't utilize space wisely
 - Untidy footer texts and some icons
-- Not *aestethic* play button
+- Not *aesthetic* play button
 
 So to improve it we need to:
 - Utilize space more efficiently
