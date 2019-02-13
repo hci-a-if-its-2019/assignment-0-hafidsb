@@ -25,7 +25,7 @@ The UI problem on this website would be:
 - The senteces is not used effectively
 
 To fix them we could:
-- Redesign the site entirely(seriously this is almost beyond repair)
+- Redesign the site entirely(seriously this is almost beyond repair :cold_sweat:)
   - Less words, more pictures
   - Using decent color combination
   - Arrange the content neater
