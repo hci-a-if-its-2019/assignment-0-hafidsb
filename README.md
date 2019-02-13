@@ -1,11 +1,11 @@
 # Assignment-0 Bad UI Design Example
-1. Tvonline.id
+### 1. Tvonline.id
 
 Tvonline.id has some problem with the UI, namely: 
 - The main logo is not cropped properly,
 - Doesn't utilize space wisely,
 - Untidy footer texts and some icons,
-- Not aestethic play button.
+- Not *aestethic* play button.
 
 So to improve it we need to:
 - Utilize space more efficiently,
@@ -13,7 +13,7 @@ So to improve it we need to:
 - Tidy up texts and icons
 - Using another video player if possible
 
-2. Best-electronics-ca.com
+### 2. Best-electronics-ca.com
 
 The UI problem on this website would be:
 - Confusing hyperlink,
@@ -31,7 +31,7 @@ To fix them we could:
   - Arrange the content neater
   - Color the text correctly and uniquely
   
-3. Mentalfloss.com
+### 3. Mentalfloss.com
 
 This site's UI problems are:
 - Tha top navbar doesn't stick to the peak for a while,
