@@ -13,6 +13,8 @@ So to improve it we need to:
 - Tidy up texts and icons
 - Using another video player if possible
 
+[Video] (https://youtu.be/JM1o7npGq6w)
+
 ### 2. Best-electronics-ca.com
 
 The UI problem on this website would be:
