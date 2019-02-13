@@ -1,6 +1,6 @@
 # Assignment-0 Bad UI Design Example
 ### 1. Tvonline.id
-
+#### [(Video link)](https://youtu.be/JM1o7npGq6w)
 Tvonline.id has some problem with the UI, namely: 
 - The main logo is not cropped properly
 - Doesn't utilize space wisely
@@ -12,8 +12,6 @@ So to improve it we need to:
 - Pay attention to minor detail such as the logo
 - Tidy up texts and icons
 - Using another video player if possible
-
-[Video](https://youtu.be/JM1o7npGq6w)
 
 ### 2. Best-electronics-ca.com
 
