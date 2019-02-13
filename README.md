@@ -14,7 +14,7 @@ So to improve it we need to:
 - Using another video player if possible
 
 ### 2. Best-electronics-ca.com
-
+#### [(Video link)](https://youtu.be/wSTewK91x2I)
 The UI problem on this website would be:
 - Confusing hyperlink
 - No product grouping
@@ -32,7 +32,7 @@ To fix them we could:
   - Color the text correctly and uniquely
   
 ### 3. Mentalfloss.com
-
+#### [(Video link)](https://youtu.be/PQlA0DMjl8E)
 This site's UI problems are:
 - Tha top navbar doesn't stick to the peak for a while
 - Too much styling format in one page
